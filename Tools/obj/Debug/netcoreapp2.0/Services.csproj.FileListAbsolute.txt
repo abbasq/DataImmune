@@ -1,0 +1,4 @@
+C:\Users\dhoobyar\source\repos\DataImmune.Program\Tools\obj\Debug\netcoreapp2.0\Services.csprojAssemblyReference.cache
+C:\Users\dhoobyar\source\repos\DataImmune.Program\Tools\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\dhoobyar\source\repos\DataImmune.Program\Tools\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+C:\Users\dhoobyar\source\repos\DataImmune.Program\Tools\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
